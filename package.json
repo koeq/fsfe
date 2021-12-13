@@ -1,0 +1,22 @@
+{
+  "name": "fsfe",
+  "version": "1.0.0",
+  "description": "repo for fm's full stack for front end engineers",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/koeq/fsfe.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/koeq/fsfe/issues"
+  },
+  "homepage": "https://github.com/koeq/fsfe#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
